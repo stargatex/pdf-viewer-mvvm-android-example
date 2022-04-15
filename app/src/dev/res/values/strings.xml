@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDF VIEWER DEV</string>
+    <string name="accountType">com.stargatex.lahiru.basicpdfviwer.dev.di.module.auth</string>
+</resources>
